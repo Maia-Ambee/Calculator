@@ -7,4 +7,4 @@ print(f"Sum: {x + y}")
 print(f"Sub: {x - y}")
 print(f"Mul: {x * y}")
 print(f"Div: {x / y}")
-print(f"Per: {x % y}")
+
