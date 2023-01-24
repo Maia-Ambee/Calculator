@@ -1,4 +1,4 @@
-print(" My Calculator")
+print("It's My Calculator")
 
 x = int(input("X: "))
 y = int(input("Y: "))
